@@ -1,0 +1,2 @@
+include ':app', ':plugin-game1', ':plugin-game2', ':plugin-lib'
+rootProject.name='app-plugin'
